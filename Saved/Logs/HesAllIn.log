@@ -4057,3 +4057,543 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.07.31-18.47.34:458][ 28]AssetCheck: /Game/Environments/Bar/barTable Validating asset
 [2025.07.31-18.47.34:458][ 28]AssetCheck: /Game/Environments/Bar/light3 Validating asset
 [2025.07.31-18.47.34:476][ 28]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/lvm210001/Documents/GitHub/hes-all-in/Saved/SourceControl/UncontrolledChangelists.json
+[2025.07.31-18.47.52:316][240]LogDerivedDataCache: C:/Users/lvm210001/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.07.31-18.48.05:530][223]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2025.07.31-18.48.05:532][223]Cmd: MAP LOAD FILE="../../../../../../Users/lvm210001/Documents/GitHub/hes-all-in/Content/Levels/Bar/LVL_Bar.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.07.31-18.48.05:568][223]LogWorld: UWorld::CleanupWorld for Laundromat, bSessionEnded=true, bCleanupResources=true
+[2025.07.31-18.48.05:568][223]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.31-18.48.05:589][223]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.07.31-18.48.05:591][223]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2025.07.31-18.48.05:592][223]LogStreaming: Display: FlushAsyncLoading(450): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.31-18.48.06:026][223]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Levels/Bar/Anims/MF_Emote_FingerGuns.MF_Emote_FingerGuns (Required Memory Estimate: 84.22 MB)
+[2025.07.31-18.48.06:038][223]LogAudio: Display: Audio Device (ID: 1) registered with world 'LVL_Bar'.
+[2025.07.31-18.48.06:038][223]LogChaosDD: Creating Chaos Debug Draw Scene for world LVL_Bar
+[2025.07.31-18.48.06:074][223]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.07.31-18.48.06:100][223]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2025.07.31-18.48.06:113][223]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.07.31-18.48.06:113][223]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.074ms to complete.
+[2025.07.31-18.48.06:115][223]LogSlate: Window 'Open Level' being destroyed
+[2025.07.31-18.48.06:627][235]LogAnimationCompression: Display: Storing compressed animation data for /Game/Levels/Bar/Anims/MF_Emote_FingerGuns.MF_Emote_FingerGuns, at AnimationSequence/7bf23f7cc92fb1b6756b855342e1d85fdb567c91
+[2025.07.31-18.48.15:161][105]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2025.07.31-18.48.15:174][105]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/ashTray.ashTray
+[2025.07.31-18.48.15:175][105]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/ashTray.ashTray
+[2025.07.31-18.48.15:175][105]LogActorFactory: Actor Factory spawned StaticMesh /Game/Environments/Bar/ashTray.ashTray as actor: StaticMeshActor /Game/Levels/Bar/LVL_Bar.LVL_Bar:PersistentLevel.StaticMeshActor_0
+[2025.07.31-18.48.15:176][105]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/barShelf.barShelf
+[2025.07.31-18.48.15:176][105]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/barShelf.barShelf
+[2025.07.31-18.48.15:176][105]LogActorFactory: Actor Factory spawned StaticMesh /Game/Environments/Bar/barShelf.barShelf as actor: StaticMeshActor /Game/Levels/Bar/LVL_Bar.LVL_Bar:PersistentLevel.StaticMeshActor_1
+[2025.07.31-18.48.15:177][105]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/barStool1.barStool1
+[2025.07.31-18.48.15:177][105]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/barStool1.barStool1
+[2025.07.31-18.48.15:177][105]LogActorFactory: Actor Factory spawned StaticMesh /Game/Environments/Bar/barStool1.barStool1 as actor: StaticMeshActor /Game/Levels/Bar/LVL_Bar.LVL_Bar:PersistentLevel.StaticMeshActor_5
+[2025.07.31-18.48.15:178][105]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/barStool2.barStool2
+[2025.07.31-18.48.15:178][105]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/barStool2.barStool2
+[2025.07.31-18.48.15:178][105]LogActorFactory: Actor Factory spawned StaticMesh /Game/Environments/Bar/barStool2.barStool2 as actor: StaticMeshActor /Game/Levels/Bar/LVL_Bar.LVL_Bar:PersistentLevel.StaticMeshActor_13
+[2025.07.31-18.48.15:179][105]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/barStool3.barStool3
+[2025.07.31-18.48.15:179][105]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/barStool3.barStool3
+[2025.07.31-18.48.15:179][105]LogActorFactory: Actor Factory spawned StaticMesh /Game/Environments/Bar/barStool3.barStool3 as actor: StaticMeshActor /Game/Levels/Bar/LVL_Bar.LVL_Bar:PersistentLevel.StaticMeshActor_17
+[2025.07.31-18.48.15:179][105]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/barStool4.barStool4
+[2025.07.31-18.48.15:179][105]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/barStool4.barStool4
+[2025.07.31-18.48.15:180][105]LogActorFactory: Actor Factory spawned StaticMesh /Game/Environments/Bar/barStool4.barStool4 as actor: StaticMeshActor /Game/Levels/Bar/LVL_Bar.LVL_Bar:PersistentLevel.StaticMeshActor_18
+[2025.07.31-18.48.15:180][105]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/barTable.barTable
+[2025.07.31-18.48.15:180][105]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/barTable.barTable
+[2025.07.31-18.48.15:180][105]LogActorFactory: Actor Factory spawned StaticMesh /Game/Environments/Bar/barTable.barTable as actor: StaticMeshActor /Game/Levels/Bar/LVL_Bar.LVL_Bar:PersistentLevel.StaticMeshActor_20
+[2025.07.31-18.48.15:181][105]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/baseballBat.baseballBat
+[2025.07.31-18.48.15:181][105]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/baseballBat.baseballBat
+[2025.07.31-18.48.15:181][105]LogActorFactory: Actor Factory spawned StaticMesh /Game/Environments/Bar/baseballBat.baseballBat as actor: StaticMeshActor /Game/Levels/Bar/LVL_Bar.LVL_Bar:PersistentLevel.StaticMeshActor_21
+[2025.07.31-18.48.15:182][105]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/bottle1.bottle1
+[2025.07.31-18.48.15:182][105]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/bottle1.bottle1
+[2025.07.31-18.48.15:182][105]LogActorFactory: Actor Factory spawned StaticMesh /Game/Environments/Bar/bottle1.bottle1 as actor: StaticMeshActor /Game/Levels/Bar/LVL_Bar.LVL_Bar:PersistentLevel.StaticMeshActor_22
+[2025.07.31-18.48.15:182][105]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/bottle2.bottle2
+[2025.07.31-18.48.15:182][105]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/bottle2.bottle2
+[2025.07.31-18.48.15:182][105]LogActorFactory: Actor Factory spawned StaticMesh /Game/Environments/Bar/bottle2.bottle2 as actor: StaticMeshActor /Game/Levels/Bar/LVL_Bar.LVL_Bar:PersistentLevel.StaticMeshActor_23
+[2025.07.31-18.48.15:183][105]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/bottle3.bottle3
+[2025.07.31-18.48.15:183][105]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/bottle3.bottle3
+[2025.07.31-18.48.15:183][105]LogActorFactory: Actor Factory spawned StaticMesh /Game/Environments/Bar/bottle3.bottle3 as actor: StaticMeshActor /Game/Levels/Bar/LVL_Bar.LVL_Bar:PersistentLevel.StaticMeshActor_24
+[2025.07.31-18.48.15:184][105]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/bottle4.bottle4
+[2025.07.31-18.48.15:184][105]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/bottle4.bottle4
+[2025.07.31-18.48.15:184][105]LogActorFactory: Actor Factory spawned StaticMesh /Game/Environments/Bar/bottle4.bottle4 as actor: StaticMeshActor /Game/Levels/Bar/LVL_Bar.LVL_Bar:PersistentLevel.StaticMeshActor_25
+[2025.07.31-18.48.15:185][105]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/bottle5.bottle5
+[2025.07.31-18.48.15:185][105]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/bottle5.bottle5
+[2025.07.31-18.48.15:185][105]LogActorFactory: Actor Factory spawned StaticMesh /Game/Environments/Bar/bottle5.bottle5 as actor: StaticMeshActor /Game/Levels/Bar/LVL_Bar.LVL_Bar:PersistentLevel.StaticMeshActor_26
+[2025.07.31-18.48.15:185][105]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/bottle1v2.bottle1v2
+[2025.07.31-18.48.15:185][105]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/bottle1v2.bottle1v2
+[2025.07.31-18.48.15:186][105]LogActorFactory: Actor Factory spawned StaticMesh /Game/Environments/Bar/bottle1v2.bottle1v2 as actor: StaticMeshActor /Game/Levels/Bar/LVL_Bar.LVL_Bar:PersistentLevel.StaticMeshActor_27
+[2025.07.31-18.48.15:186][105]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/bottle2v2.bottle2v2
+[2025.07.31-18.48.15:186][105]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/bottle2v2.bottle2v2
+[2025.07.31-18.48.15:186][105]LogActorFactory: Actor Factory spawned StaticMesh /Game/Environments/Bar/bottle2v2.bottle2v2 as actor: StaticMeshActor /Game/Levels/Bar/LVL_Bar.LVL_Bar:PersistentLevel.StaticMeshActor_28
+[2025.07.31-18.48.15:188][105]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/bottle3v2.bottle3v2
+[2025.07.31-18.48.15:188][105]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/bottle3v2.bottle3v2
+[2025.07.31-18.48.15:188][105]LogActorFactory: Actor Factory spawned StaticMesh /Game/Environments/Bar/bottle3v2.bottle3v2 as actor: StaticMeshActor /Game/Levels/Bar/LVL_Bar.LVL_Bar:PersistentLevel.StaticMeshActor_29
+[2025.07.31-18.48.15:188][105]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/bottle4v3.bottle4v3
+[2025.07.31-18.48.15:188][105]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/bottle4v3.bottle4v3
+[2025.07.31-18.48.15:189][105]LogActorFactory: Actor Factory spawned StaticMesh /Game/Environments/Bar/bottle4v3.bottle4v3 as actor: StaticMeshActor /Game/Levels/Bar/LVL_Bar.LVL_Bar:PersistentLevel.StaticMeshActor_30
+[2025.07.31-18.48.15:189][105]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/bottle5v2.bottle5v2
+[2025.07.31-18.48.15:189][105]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/bottle5v2.bottle5v2
+[2025.07.31-18.48.15:190][105]LogActorFactory: Actor Factory spawned StaticMesh /Game/Environments/Bar/bottle5v2.bottle5v2 as actor: StaticMeshActor /Game/Levels/Bar/LVL_Bar.LVL_Bar:PersistentLevel.StaticMeshActor_31
+[2025.07.31-18.48.15:190][105]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/brokenSlotMachine.brokenSlotMachine
+[2025.07.31-18.48.15:190][105]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/brokenSlotMachine.brokenSlotMachine
+[2025.07.31-18.48.15:190][105]LogActorFactory: Actor Factory spawned StaticMesh /Game/Environments/Bar/brokenSlotMachine.brokenSlotMachine as actor: StaticMeshActor /Game/Levels/Bar/LVL_Bar.LVL_Bar:PersistentLevel.StaticMeshActor_32
+[2025.07.31-18.48.15:191][105]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/cieling.cieling
+[2025.07.31-18.48.15:191][105]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/cieling.cieling
+[2025.07.31-18.48.15:192][105]LogActorFactory: Actor Factory spawned StaticMesh /Game/Environments/Bar/cieling.cieling as actor: StaticMeshActor /Game/Levels/Bar/LVL_Bar.LVL_Bar:PersistentLevel.StaticMeshActor_33
+[2025.07.31-18.48.15:192][105]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/cigar.cigar
+[2025.07.31-18.48.15:192][105]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/cigar.cigar
+[2025.07.31-18.48.15:193][105]LogActorFactory: Actor Factory spawned StaticMesh /Game/Environments/Bar/cigar.cigar as actor: StaticMeshActor /Game/Levels/Bar/LVL_Bar.LVL_Bar:PersistentLevel.StaticMeshActor_34
+[2025.07.31-18.48.15:193][105]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/curtain.curtain
+[2025.07.31-18.48.15:193][105]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/curtain.curtain
+[2025.07.31-18.48.15:193][105]LogActorFactory: Actor Factory spawned StaticMesh /Game/Environments/Bar/curtain.curtain as actor: StaticMeshActor /Game/Levels/Bar/LVL_Bar.LVL_Bar:PersistentLevel.StaticMeshActor_35
+[2025.07.31-18.48.15:194][105]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/dart.dart
+[2025.07.31-18.48.15:194][105]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/dart.dart
+[2025.07.31-18.48.15:194][105]LogActorFactory: Actor Factory spawned StaticMesh /Game/Environments/Bar/dart.dart as actor: StaticMeshActor /Game/Levels/Bar/LVL_Bar.LVL_Bar:PersistentLevel.StaticMeshActor_36
+[2025.07.31-18.48.15:195][105]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/dartBoard.dartBoard
+[2025.07.31-18.48.15:195][105]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/dartBoard.dartBoard
+[2025.07.31-18.48.15:195][105]LogActorFactory: Actor Factory spawned StaticMesh /Game/Environments/Bar/dartBoard.dartBoard as actor: StaticMeshActor /Game/Levels/Bar/LVL_Bar.LVL_Bar:PersistentLevel.StaticMeshActor_37
+[2025.07.31-18.48.15:196][105]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/floor.floor
+[2025.07.31-18.48.15:196][105]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/floor.floor
+[2025.07.31-18.48.15:196][105]LogActorFactory: Actor Factory spawned StaticMesh /Game/Environments/Bar/floor.floor as actor: StaticMeshActor /Game/Levels/Bar/LVL_Bar.LVL_Bar:PersistentLevel.StaticMeshActor_38
+[2025.07.31-18.48.15:197][105]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/light1.light1
+[2025.07.31-18.48.15:197][105]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/light1.light1
+[2025.07.31-18.48.15:197][105]LogActorFactory: Actor Factory spawned StaticMesh /Game/Environments/Bar/light1.light1 as actor: StaticMeshActor /Game/Levels/Bar/LVL_Bar.LVL_Bar:PersistentLevel.StaticMeshActor_39
+[2025.07.31-18.48.15:198][105]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/light2.light2
+[2025.07.31-18.48.15:198][105]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/light2.light2
+[2025.07.31-18.48.15:198][105]LogActorFactory: Actor Factory spawned StaticMesh /Game/Environments/Bar/light2.light2 as actor: StaticMeshActor /Game/Levels/Bar/LVL_Bar.LVL_Bar:PersistentLevel.StaticMeshActor_40
+[2025.07.31-18.48.15:199][105]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/light3.light3
+[2025.07.31-18.48.15:199][105]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/light3.light3
+[2025.07.31-18.48.15:199][105]LogActorFactory: Actor Factory spawned StaticMesh /Game/Environments/Bar/light3.light3 as actor: StaticMeshActor /Game/Levels/Bar/LVL_Bar.LVL_Bar:PersistentLevel.StaticMeshActor_41
+[2025.07.31-18.48.15:200][105]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/poisonedCup.poisonedCup
+[2025.07.31-18.48.15:200][105]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/poisonedCup.poisonedCup
+[2025.07.31-18.48.15:200][105]LogActorFactory: Actor Factory spawned StaticMesh /Game/Environments/Bar/poisonedCup.poisonedCup as actor: StaticMeshActor /Game/Levels/Bar/LVL_Bar.LVL_Bar:PersistentLevel.StaticMeshActor_42
+[2025.07.31-18.48.15:201][105]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/slotMachine.slotMachine
+[2025.07.31-18.48.15:201][105]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/slotMachine.slotMachine
+[2025.07.31-18.48.15:201][105]LogActorFactory: Actor Factory spawned StaticMesh /Game/Environments/Bar/slotMachine.slotMachine as actor: StaticMeshActor /Game/Levels/Bar/LVL_Bar.LVL_Bar:PersistentLevel.StaticMeshActor_43
+[2025.07.31-18.48.15:201][105]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/slotMachine1.slotMachine1
+[2025.07.31-18.48.15:201][105]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/slotMachine1.slotMachine1
+[2025.07.31-18.48.15:202][105]LogActorFactory: Actor Factory spawned StaticMesh /Game/Environments/Bar/slotMachine1.slotMachine1 as actor: StaticMeshActor /Game/Levels/Bar/LVL_Bar.LVL_Bar:PersistentLevel.StaticMeshActor_44
+[2025.07.31-18.48.15:202][105]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/slotsHandle.slotsHandle
+[2025.07.31-18.48.15:202][105]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/slotsHandle.slotsHandle
+[2025.07.31-18.48.15:202][105]LogActorFactory: Actor Factory spawned StaticMesh /Game/Environments/Bar/slotsHandle.slotsHandle as actor: StaticMeshActor /Game/Levels/Bar/LVL_Bar.LVL_Bar:PersistentLevel.StaticMeshActor_45
+[2025.07.31-18.48.15:203][105]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/slotsHandle2.slotsHandle2
+[2025.07.31-18.48.15:203][105]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/slotsHandle2.slotsHandle2
+[2025.07.31-18.48.15:203][105]LogActorFactory: Actor Factory spawned StaticMesh /Game/Environments/Bar/slotsHandle2.slotsHandle2 as actor: StaticMeshActor /Game/Levels/Bar/LVL_Bar.LVL_Bar:PersistentLevel.StaticMeshActor_46
+[2025.07.31-18.48.15:204][105]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/slotsHandle3.slotsHandle3
+[2025.07.31-18.48.15:204][105]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/slotsHandle3.slotsHandle3
+[2025.07.31-18.48.15:204][105]LogActorFactory: Actor Factory spawned StaticMesh /Game/Environments/Bar/slotsHandle3.slotsHandle3 as actor: StaticMeshActor /Game/Levels/Bar/LVL_Bar.LVL_Bar:PersistentLevel.StaticMeshActor_47
+[2025.07.31-18.48.15:205][105]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/table1.table1
+[2025.07.31-18.48.15:205][105]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/table1.table1
+[2025.07.31-18.48.15:205][105]LogActorFactory: Actor Factory spawned StaticMesh /Game/Environments/Bar/table1.table1 as actor: StaticMeshActor /Game/Levels/Bar/LVL_Bar.LVL_Bar:PersistentLevel.StaticMeshActor_48
+[2025.07.31-18.48.15:206][105]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/table2.table2
+[2025.07.31-18.48.15:206][105]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/table2.table2
+[2025.07.31-18.48.15:206][105]LogActorFactory: Actor Factory spawned StaticMesh /Game/Environments/Bar/table2.table2 as actor: StaticMeshActor /Game/Levels/Bar/LVL_Bar.LVL_Bar:PersistentLevel.StaticMeshActor_49
+[2025.07.31-18.48.15:207][105]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/table3.table3
+[2025.07.31-18.48.15:207][105]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/table3.table3
+[2025.07.31-18.48.15:207][105]LogActorFactory: Actor Factory spawned StaticMesh /Game/Environments/Bar/table3.table3 as actor: StaticMeshActor /Game/Levels/Bar/LVL_Bar.LVL_Bar:PersistentLevel.StaticMeshActor_50
+[2025.07.31-18.48.15:208][105]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/tableStool1.tableStool1
+[2025.07.31-18.48.15:208][105]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/tableStool1.tableStool1
+[2025.07.31-18.48.15:208][105]LogActorFactory: Actor Factory spawned StaticMesh /Game/Environments/Bar/tableStool1.tableStool1 as actor: StaticMeshActor /Game/Levels/Bar/LVL_Bar.LVL_Bar:PersistentLevel.StaticMeshActor_51
+[2025.07.31-18.48.15:208][105]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/tableStool2.tableStool2
+[2025.07.31-18.48.15:208][105]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/tableStool2.tableStool2
+[2025.07.31-18.48.15:209][105]LogActorFactory: Actor Factory spawned StaticMesh /Game/Environments/Bar/tableStool2.tableStool2 as actor: StaticMeshActor /Game/Levels/Bar/LVL_Bar.LVL_Bar:PersistentLevel.StaticMeshActor_52
+[2025.07.31-18.48.15:209][105]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/tableStool3.tableStool3
+[2025.07.31-18.48.15:209][105]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/tableStool3.tableStool3
+[2025.07.31-18.48.15:209][105]LogActorFactory: Actor Factory spawned StaticMesh /Game/Environments/Bar/tableStool3.tableStool3 as actor: StaticMeshActor /Game/Levels/Bar/LVL_Bar.LVL_Bar:PersistentLevel.StaticMeshActor_53
+[2025.07.31-18.48.15:210][105]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/tableStool4.tableStool4
+[2025.07.31-18.48.15:210][105]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/tableStool4.tableStool4
+[2025.07.31-18.48.15:210][105]LogActorFactory: Actor Factory spawned StaticMesh /Game/Environments/Bar/tableStool4.tableStool4 as actor: StaticMeshActor /Game/Levels/Bar/LVL_Bar.LVL_Bar:PersistentLevel.StaticMeshActor_54
+[2025.07.31-18.48.15:211][105]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/tableStool5.tableStool5
+[2025.07.31-18.48.15:211][105]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/tableStool5.tableStool5
+[2025.07.31-18.48.15:211][105]LogActorFactory: Actor Factory spawned StaticMesh /Game/Environments/Bar/tableStool5.tableStool5 as actor: StaticMeshActor /Game/Levels/Bar/LVL_Bar.LVL_Bar:PersistentLevel.StaticMeshActor_55
+[2025.07.31-18.48.15:212][105]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/tableStool6.tableStool6
+[2025.07.31-18.48.15:212][105]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/tableStool6.tableStool6
+[2025.07.31-18.48.15:212][105]LogActorFactory: Actor Factory spawned StaticMesh /Game/Environments/Bar/tableStool6.tableStool6 as actor: StaticMeshActor /Game/Levels/Bar/LVL_Bar.LVL_Bar:PersistentLevel.StaticMeshActor_56
+[2025.07.31-18.48.15:213][105]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/tableStool7.tableStool7
+[2025.07.31-18.48.15:213][105]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/tableStool7.tableStool7
+[2025.07.31-18.48.15:213][105]LogActorFactory: Actor Factory spawned StaticMesh /Game/Environments/Bar/tableStool7.tableStool7 as actor: StaticMeshActor /Game/Levels/Bar/LVL_Bar.LVL_Bar:PersistentLevel.StaticMeshActor_57
+[2025.07.31-18.48.15:213][105]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/tableStool8.tableStool8
+[2025.07.31-18.48.15:214][105]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/tableStool8.tableStool8
+[2025.07.31-18.48.15:214][105]LogActorFactory: Actor Factory spawned StaticMesh /Game/Environments/Bar/tableStool8.tableStool8 as actor: StaticMeshActor /Game/Levels/Bar/LVL_Bar.LVL_Bar:PersistentLevel.StaticMeshActor_58
+[2025.07.31-18.48.15:214][105]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/tableStool9.tableStool9
+[2025.07.31-18.48.15:214][105]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/tableStool9.tableStool9
+[2025.07.31-18.48.15:215][105]LogActorFactory: Actor Factory spawned StaticMesh /Game/Environments/Bar/tableStool9.tableStool9 as actor: StaticMeshActor /Game/Levels/Bar/LVL_Bar.LVL_Bar:PersistentLevel.StaticMeshActor_59
+[2025.07.31-18.48.15:215][105]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/tableStool10.tableStool10
+[2025.07.31-18.48.15:215][105]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/tableStool10.tableStool10
+[2025.07.31-18.48.15:215][105]LogActorFactory: Actor Factory spawned StaticMesh /Game/Environments/Bar/tableStool10.tableStool10 as actor: StaticMeshActor /Game/Levels/Bar/LVL_Bar.LVL_Bar:PersistentLevel.StaticMeshActor_60
+[2025.07.31-18.48.15:216][105]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/tv.tv
+[2025.07.31-18.48.15:216][105]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/tv.tv
+[2025.07.31-18.48.15:216][105]LogActorFactory: Actor Factory spawned StaticMesh /Game/Environments/Bar/tv.tv as actor: StaticMeshActor /Game/Levels/Bar/LVL_Bar.LVL_Bar:PersistentLevel.StaticMeshActor_61
+[2025.07.31-18.48.15:217][105]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/walls.walls
+[2025.07.31-18.48.15:217][105]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/walls.walls
+[2025.07.31-18.48.15:217][105]LogActorFactory: Actor Factory spawned StaticMesh /Game/Environments/Bar/walls.walls as actor: StaticMeshActor /Game/Levels/Bar/LVL_Bar.LVL_Bar:PersistentLevel.StaticMeshActor_62
+[2025.07.31-18.48.16:243][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2025.07.31-18.48.16:245][159]LogEditorActor: Deleted 0 Actors (0.029 secs)
+[2025.07.31-18.48.16:263][159]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2025.07.31-18.48.16:264][159]LogEditorActor: Deleted 0 Actors (0.019 secs)
+[2025.07.31-18.48.16:282][159]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2025.07.31-18.48.16:283][159]LogEditorActor: Deleted 0 Actors (0.019 secs)
+[2025.07.31-18.48.16:301][159]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2025.07.31-18.48.16:302][159]LogEditorActor: Deleted 0 Actors (0.019 secs)
+[2025.07.31-18.48.16:330][159]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2025.07.31-18.48.16:330][159]LogEditorActor: Deleted 0 Actors (0.028 secs)
+[2025.07.31-18.48.16:359][159]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2025.07.31-18.48.16:360][159]LogEditorActor: Deleted 0 Actors (0.030 secs)
+[2025.07.31-18.48.16:382][159]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2025.07.31-18.48.16:382][159]LogEditorActor: Deleted 0 Actors (0.022 secs)
+[2025.07.31-18.48.16:401][159]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2025.07.31-18.48.16:402][159]LogEditorActor: Deleted 0 Actors (0.020 secs)
+[2025.07.31-18.48.16:419][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2025.07.31-18.48.16:419][159]LogEditorActor: Deleted 0 Actors (0.018 secs)
+[2025.07.31-18.48.16:447][159]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2025.07.31-18.48.16:448][159]LogEditorActor: Deleted 0 Actors (0.028 secs)
+[2025.07.31-18.48.16:466][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2025.07.31-18.48.16:466][159]LogEditorActor: Deleted 0 Actors (0.018 secs)
+[2025.07.31-18.48.16:484][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2025.07.31-18.48.16:485][159]LogEditorActor: Deleted 0 Actors (0.019 secs)
+[2025.07.31-18.48.16:515][159]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2025.07.31-18.48.16:516][159]LogEditorActor: Deleted 0 Actors (0.031 secs)
+[2025.07.31-18.48.16:544][159]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2025.07.31-18.48.16:545][159]LogEditorActor: Deleted 0 Actors (0.029 secs)
+[2025.07.31-18.48.16:563][159]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2025.07.31-18.48.16:564][159]LogEditorActor: Deleted 0 Actors (0.019 secs)
+[2025.07.31-18.48.16:584][159]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2025.07.31-18.48.16:585][159]LogEditorActor: Deleted 0 Actors (0.021 secs)
+[2025.07.31-18.48.16:603][159]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2025.07.31-18.48.16:604][159]LogEditorActor: Deleted 0 Actors (0.019 secs)
+[2025.07.31-18.48.16:622][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2025.07.31-18.48.16:622][159]LogEditorActor: Deleted 0 Actors (0.019 secs)
+[2025.07.31-18.48.16:651][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2025.07.31-18.48.16:651][159]LogEditorActor: Deleted 0 Actors (0.028 secs)
+[2025.07.31-18.48.16:669][159]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2025.07.31-18.48.16:670][159]LogEditorActor: Deleted 0 Actors (0.019 secs)
+[2025.07.31-18.48.16:688][159]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2025.07.31-18.48.16:689][159]LogEditorActor: Deleted 0 Actors (0.019 secs)
+[2025.07.31-18.48.16:716][159]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2025.07.31-18.48.16:717][159]LogEditorActor: Deleted 0 Actors (0.028 secs)
+[2025.07.31-18.48.16:735][159]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2025.07.31-18.48.16:735][159]LogEditorActor: Deleted 0 Actors (0.019 secs)
+[2025.07.31-18.48.16:763][159]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2025.07.31-18.48.16:763][159]LogEditorActor: Deleted 0 Actors (0.028 secs)
+[2025.07.31-18.48.16:782][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2025.07.31-18.48.16:782][159]LogEditorActor: Deleted 0 Actors (0.019 secs)
+[2025.07.31-18.48.16:799][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2025.07.31-18.48.16:800][159]LogEditorActor: Deleted 0 Actors (0.018 secs)
+[2025.07.31-18.48.16:826][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2025.07.31-18.48.16:828][159]LogEditorActor: Deleted 0 Actors (0.027 secs)
+[2025.07.31-18.48.16:854][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2025.07.31-18.48.16:855][159]LogEditorActor: Deleted 0 Actors (0.027 secs)
+[2025.07.31-18.48.16:872][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2025.07.31-18.48.16:873][159]LogEditorActor: Deleted 0 Actors (0.018 secs)
+[2025.07.31-18.48.16:899][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2025.07.31-18.48.16:900][159]LogEditorActor: Deleted 0 Actors (0.027 secs)
+[2025.07.31-18.48.16:916][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2025.07.31-18.48.16:918][159]LogEditorActor: Deleted 0 Actors (0.018 secs)
+[2025.07.31-18.48.16:944][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2025.07.31-18.48.16:945][159]LogEditorActor: Deleted 0 Actors (0.027 secs)
+[2025.07.31-18.48.16:971][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2025.07.31-18.48.16:972][159]LogEditorActor: Deleted 0 Actors (0.027 secs)
+[2025.07.31-18.48.16:989][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2025.07.31-18.48.16:990][159]LogEditorActor: Deleted 0 Actors (0.018 secs)
+[2025.07.31-18.48.17:019][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2025.07.31-18.48.17:020][159]LogEditorActor: Deleted 0 Actors (0.030 secs)
+[2025.07.31-18.48.17:046][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2025.07.31-18.48.17:046][159]LogEditorActor: Deleted 0 Actors (0.027 secs)
+[2025.07.31-18.48.17:073][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2025.07.31-18.48.17:074][159]LogEditorActor: Deleted 0 Actors (0.027 secs)
+[2025.07.31-18.48.17:104][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2025.07.31-18.48.17:105][159]LogEditorActor: Deleted 0 Actors (0.030 secs)
+[2025.07.31-18.48.17:122][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2025.07.31-18.48.17:123][159]LogEditorActor: Deleted 0 Actors (0.018 secs)
+[2025.07.31-18.48.17:140][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2025.07.31-18.48.17:140][159]LogEditorActor: Deleted 0 Actors (0.018 secs)
+[2025.07.31-18.48.17:157][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2025.07.31-18.48.17:158][159]LogEditorActor: Deleted 0 Actors (0.018 secs)
+[2025.07.31-18.48.17:185][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2025.07.31-18.48.17:186][159]LogEditorActor: Deleted 0 Actors (0.027 secs)
+[2025.07.31-18.48.17:203][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2025.07.31-18.48.17:204][159]LogEditorActor: Deleted 0 Actors (0.019 secs)
+[2025.07.31-18.48.17:223][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2025.07.31-18.48.17:224][159]LogEditorActor: Deleted 0 Actors (0.020 secs)
+[2025.07.31-18.48.17:245][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2025.07.31-18.48.17:246][159]LogEditorActor: Deleted 0 Actors (0.022 secs)
+[2025.07.31-18.48.17:263][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2025.07.31-18.48.17:264][159]LogEditorActor: Deleted 0 Actors (0.018 secs)
+[2025.07.31-18.48.17:291][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2025.07.31-18.48.17:292][159]LogEditorActor: Deleted 0 Actors (0.028 secs)
+[2025.07.31-18.48.17:309][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2025.07.31-18.48.17:310][159]LogEditorActor: Deleted 0 Actors (0.018 secs)
+[2025.07.31-18.48.17:327][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2025.07.31-18.48.17:328][159]LogEditorActor: Deleted 0 Actors (0.018 secs)
+[2025.07.31-18.48.17:340][159]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/ashTray.ashTray
+[2025.07.31-18.48.17:340][159]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/ashTray.ashTray
+[2025.07.31-18.48.17:341][159]LogActorFactory: Actor Factory spawned StaticMesh /Game/Environments/Bar/ashTray.ashTray as actor: StaticMeshActor /Game/Levels/Bar/LVL_Bar.LVL_Bar:PersistentLevel.StaticMeshActor_63
+[2025.07.31-18.48.17:342][159]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/barShelf.barShelf
+[2025.07.31-18.48.17:342][159]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/barShelf.barShelf
+[2025.07.31-18.48.17:343][159]LogActorFactory: Actor Factory spawned StaticMesh /Game/Environments/Bar/barShelf.barShelf as actor: StaticMeshActor /Game/Levels/Bar/LVL_Bar.LVL_Bar:PersistentLevel.StaticMeshActor_64
+[2025.07.31-18.48.17:344][159]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/barStool1.barStool1
+[2025.07.31-18.48.17:344][159]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/barStool1.barStool1
+[2025.07.31-18.48.17:344][159]LogActorFactory: Actor Factory spawned StaticMesh /Game/Environments/Bar/barStool1.barStool1 as actor: StaticMeshActor /Game/Levels/Bar/LVL_Bar.LVL_Bar:PersistentLevel.StaticMeshActor_65
+[2025.07.31-18.48.17:345][159]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/barStool2.barStool2
+[2025.07.31-18.48.17:345][159]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/barStool2.barStool2
+[2025.07.31-18.48.17:346][159]LogActorFactory: Actor Factory spawned StaticMesh /Game/Environments/Bar/barStool2.barStool2 as actor: StaticMeshActor /Game/Levels/Bar/LVL_Bar.LVL_Bar:PersistentLevel.StaticMeshActor_66
+[2025.07.31-18.48.17:347][159]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/barStool3.barStool3
+[2025.07.31-18.48.17:347][159]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/barStool3.barStool3
+[2025.07.31-18.48.17:347][159]LogActorFactory: Actor Factory spawned StaticMesh /Game/Environments/Bar/barStool3.barStool3 as actor: StaticMeshActor /Game/Levels/Bar/LVL_Bar.LVL_Bar:PersistentLevel.StaticMeshActor_67
+[2025.07.31-18.48.17:348][159]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/barStool4.barStool4
+[2025.07.31-18.48.17:348][159]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/barStool4.barStool4
+[2025.07.31-18.48.17:348][159]LogActorFactory: Actor Factory spawned StaticMesh /Game/Environments/Bar/barStool4.barStool4 as actor: StaticMeshActor /Game/Levels/Bar/LVL_Bar.LVL_Bar:PersistentLevel.StaticMeshActor_68
+[2025.07.31-18.48.17:349][159]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/barTable.barTable
+[2025.07.31-18.48.17:349][159]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/barTable.barTable
+[2025.07.31-18.48.17:350][159]LogActorFactory: Actor Factory spawned StaticMesh /Game/Environments/Bar/barTable.barTable as actor: StaticMeshActor /Game/Levels/Bar/LVL_Bar.LVL_Bar:PersistentLevel.StaticMeshActor_69
+[2025.07.31-18.48.17:351][159]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/baseballBat.baseballBat
+[2025.07.31-18.48.17:351][159]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/baseballBat.baseballBat
+[2025.07.31-18.48.17:351][159]LogActorFactory: Actor Factory spawned StaticMesh /Game/Environments/Bar/baseballBat.baseballBat as actor: StaticMeshActor /Game/Levels/Bar/LVL_Bar.LVL_Bar:PersistentLevel.StaticMeshActor_70
+[2025.07.31-18.48.17:352][159]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/bottle1.bottle1
+[2025.07.31-18.48.17:352][159]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/bottle1.bottle1
+[2025.07.31-18.48.17:353][159]LogActorFactory: Actor Factory spawned StaticMesh /Game/Environments/Bar/bottle1.bottle1 as actor: StaticMeshActor /Game/Levels/Bar/LVL_Bar.LVL_Bar:PersistentLevel.StaticMeshActor_71
+[2025.07.31-18.48.17:353][159]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/bottle2.bottle2
+[2025.07.31-18.48.17:353][159]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/bottle2.bottle2
+[2025.07.31-18.48.17:354][159]LogActorFactory: Actor Factory spawned StaticMesh /Game/Environments/Bar/bottle2.bottle2 as actor: StaticMeshActor /Game/Levels/Bar/LVL_Bar.LVL_Bar:PersistentLevel.StaticMeshActor_72
+[2025.07.31-18.48.17:355][159]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/bottle3.bottle3
+[2025.07.31-18.48.17:355][159]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/bottle3.bottle3
+[2025.07.31-18.48.17:356][159]LogActorFactory: Actor Factory spawned StaticMesh /Game/Environments/Bar/bottle3.bottle3 as actor: StaticMeshActor /Game/Levels/Bar/LVL_Bar.LVL_Bar:PersistentLevel.StaticMeshActor_73
+[2025.07.31-18.48.17:356][159]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/bottle4.bottle4
+[2025.07.31-18.48.17:356][159]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/bottle4.bottle4
+[2025.07.31-18.48.17:358][159]LogActorFactory: Actor Factory spawned StaticMesh /Game/Environments/Bar/bottle4.bottle4 as actor: StaticMeshActor /Game/Levels/Bar/LVL_Bar.LVL_Bar:PersistentLevel.StaticMeshActor_74
+[2025.07.31-18.48.17:358][159]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/bottle5.bottle5
+[2025.07.31-18.48.17:358][159]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/bottle5.bottle5
+[2025.07.31-18.48.17:359][159]LogActorFactory: Actor Factory spawned StaticMesh /Game/Environments/Bar/bottle5.bottle5 as actor: StaticMeshActor /Game/Levels/Bar/LVL_Bar.LVL_Bar:PersistentLevel.StaticMeshActor_75
+[2025.07.31-18.48.17:360][159]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/bottle1v2.bottle1v2
+[2025.07.31-18.48.17:360][159]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/bottle1v2.bottle1v2
+[2025.07.31-18.48.17:360][159]LogActorFactory: Actor Factory spawned StaticMesh /Game/Environments/Bar/bottle1v2.bottle1v2 as actor: StaticMeshActor /Game/Levels/Bar/LVL_Bar.LVL_Bar:PersistentLevel.StaticMeshActor_76
+[2025.07.31-18.48.17:361][159]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/bottle2v2.bottle2v2
+[2025.07.31-18.48.17:361][159]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/bottle2v2.bottle2v2
+[2025.07.31-18.48.17:362][159]LogActorFactory: Actor Factory spawned StaticMesh /Game/Environments/Bar/bottle2v2.bottle2v2 as actor: StaticMeshActor /Game/Levels/Bar/LVL_Bar.LVL_Bar:PersistentLevel.StaticMeshActor_77
+[2025.07.31-18.48.17:363][159]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/bottle3v2.bottle3v2
+[2025.07.31-18.48.17:363][159]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/bottle3v2.bottle3v2
+[2025.07.31-18.48.17:363][159]LogActorFactory: Actor Factory spawned StaticMesh /Game/Environments/Bar/bottle3v2.bottle3v2 as actor: StaticMeshActor /Game/Levels/Bar/LVL_Bar.LVL_Bar:PersistentLevel.StaticMeshActor_78
+[2025.07.31-18.48.17:364][159]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/bottle4v3.bottle4v3
+[2025.07.31-18.48.17:364][159]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/bottle4v3.bottle4v3
+[2025.07.31-18.48.17:365][159]LogActorFactory: Actor Factory spawned StaticMesh /Game/Environments/Bar/bottle4v3.bottle4v3 as actor: StaticMeshActor /Game/Levels/Bar/LVL_Bar.LVL_Bar:PersistentLevel.StaticMeshActor_79
+[2025.07.31-18.48.17:366][159]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/bottle5v2.bottle5v2
+[2025.07.31-18.48.17:366][159]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/bottle5v2.bottle5v2
+[2025.07.31-18.48.17:366][159]LogActorFactory: Actor Factory spawned StaticMesh /Game/Environments/Bar/bottle5v2.bottle5v2 as actor: StaticMeshActor /Game/Levels/Bar/LVL_Bar.LVL_Bar:PersistentLevel.StaticMeshActor_80
+[2025.07.31-18.48.17:367][159]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/brokenSlotMachine.brokenSlotMachine
+[2025.07.31-18.48.17:367][159]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/brokenSlotMachine.brokenSlotMachine
+[2025.07.31-18.48.17:368][159]LogActorFactory: Actor Factory spawned StaticMesh /Game/Environments/Bar/brokenSlotMachine.brokenSlotMachine as actor: StaticMeshActor /Game/Levels/Bar/LVL_Bar.LVL_Bar:PersistentLevel.StaticMeshActor_81
+[2025.07.31-18.48.17:368][159]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/cieling.cieling
+[2025.07.31-18.48.17:368][159]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/cieling.cieling
+[2025.07.31-18.48.17:369][159]LogActorFactory: Actor Factory spawned StaticMesh /Game/Environments/Bar/cieling.cieling as actor: StaticMeshActor /Game/Levels/Bar/LVL_Bar.LVL_Bar:PersistentLevel.StaticMeshActor_82
+[2025.07.31-18.48.17:369][159]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/cigar.cigar
+[2025.07.31-18.48.17:369][159]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/cigar.cigar
+[2025.07.31-18.48.17:370][159]LogActorFactory: Actor Factory spawned StaticMesh /Game/Environments/Bar/cigar.cigar as actor: StaticMeshActor /Game/Levels/Bar/LVL_Bar.LVL_Bar:PersistentLevel.StaticMeshActor_83
+[2025.07.31-18.48.17:371][159]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/curtain.curtain
+[2025.07.31-18.48.17:371][159]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/curtain.curtain
+[2025.07.31-18.48.17:371][159]LogActorFactory: Actor Factory spawned StaticMesh /Game/Environments/Bar/curtain.curtain as actor: StaticMeshActor /Game/Levels/Bar/LVL_Bar.LVL_Bar:PersistentLevel.StaticMeshActor_84
+[2025.07.31-18.48.17:372][159]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/dart.dart
+[2025.07.31-18.48.17:372][159]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/dart.dart
+[2025.07.31-18.48.17:373][159]LogActorFactory: Actor Factory spawned StaticMesh /Game/Environments/Bar/dart.dart as actor: StaticMeshActor /Game/Levels/Bar/LVL_Bar.LVL_Bar:PersistentLevel.StaticMeshActor_85
+[2025.07.31-18.48.17:374][159]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/dartBoard.dartBoard
+[2025.07.31-18.48.17:374][159]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/dartBoard.dartBoard
+[2025.07.31-18.48.17:374][159]LogActorFactory: Actor Factory spawned StaticMesh /Game/Environments/Bar/dartBoard.dartBoard as actor: StaticMeshActor /Game/Levels/Bar/LVL_Bar.LVL_Bar:PersistentLevel.StaticMeshActor_86
+[2025.07.31-18.48.17:375][159]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/floor.floor
+[2025.07.31-18.48.17:375][159]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/floor.floor
+[2025.07.31-18.48.17:376][159]LogActorFactory: Actor Factory spawned StaticMesh /Game/Environments/Bar/floor.floor as actor: StaticMeshActor /Game/Levels/Bar/LVL_Bar.LVL_Bar:PersistentLevel.StaticMeshActor_87
+[2025.07.31-18.48.17:379][159]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/light1.light1
+[2025.07.31-18.48.17:379][159]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/light1.light1
+[2025.07.31-18.48.17:380][159]LogActorFactory: Actor Factory spawned StaticMesh /Game/Environments/Bar/light1.light1 as actor: StaticMeshActor /Game/Levels/Bar/LVL_Bar.LVL_Bar:PersistentLevel.StaticMeshActor_88
+[2025.07.31-18.48.17:380][159]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/light2.light2
+[2025.07.31-18.48.17:380][159]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/light2.light2
+[2025.07.31-18.48.17:381][159]LogActorFactory: Actor Factory spawned StaticMesh /Game/Environments/Bar/light2.light2 as actor: StaticMeshActor /Game/Levels/Bar/LVL_Bar.LVL_Bar:PersistentLevel.StaticMeshActor_89
+[2025.07.31-18.48.17:382][159]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/light3.light3
+[2025.07.31-18.48.17:382][159]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/light3.light3
+[2025.07.31-18.48.17:383][159]LogActorFactory: Actor Factory spawned StaticMesh /Game/Environments/Bar/light3.light3 as actor: StaticMeshActor /Game/Levels/Bar/LVL_Bar.LVL_Bar:PersistentLevel.StaticMeshActor_90
+[2025.07.31-18.48.17:383][159]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/poisonedCup.poisonedCup
+[2025.07.31-18.48.17:383][159]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/poisonedCup.poisonedCup
+[2025.07.31-18.48.17:384][159]LogActorFactory: Actor Factory spawned StaticMesh /Game/Environments/Bar/poisonedCup.poisonedCup as actor: StaticMeshActor /Game/Levels/Bar/LVL_Bar.LVL_Bar:PersistentLevel.StaticMeshActor_91
+[2025.07.31-18.48.17:385][159]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/slotMachine.slotMachine
+[2025.07.31-18.48.17:385][159]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/slotMachine.slotMachine
+[2025.07.31-18.48.17:386][159]LogActorFactory: Actor Factory spawned StaticMesh /Game/Environments/Bar/slotMachine.slotMachine as actor: StaticMeshActor /Game/Levels/Bar/LVL_Bar.LVL_Bar:PersistentLevel.StaticMeshActor_92
+[2025.07.31-18.48.17:386][159]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/slotMachine1.slotMachine1
+[2025.07.31-18.48.17:386][159]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/slotMachine1.slotMachine1
+[2025.07.31-18.48.17:387][159]LogActorFactory: Actor Factory spawned StaticMesh /Game/Environments/Bar/slotMachine1.slotMachine1 as actor: StaticMeshActor /Game/Levels/Bar/LVL_Bar.LVL_Bar:PersistentLevel.StaticMeshActor_93
+[2025.07.31-18.48.17:388][159]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/slotsHandle.slotsHandle
+[2025.07.31-18.48.17:388][159]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/slotsHandle.slotsHandle
+[2025.07.31-18.48.17:388][159]LogActorFactory: Actor Factory spawned StaticMesh /Game/Environments/Bar/slotsHandle.slotsHandle as actor: StaticMeshActor /Game/Levels/Bar/LVL_Bar.LVL_Bar:PersistentLevel.StaticMeshActor_94
+[2025.07.31-18.48.17:388][159]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/slotsHandle2.slotsHandle2
+[2025.07.31-18.48.17:389][159]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/slotsHandle2.slotsHandle2
+[2025.07.31-18.48.17:389][159]LogActorFactory: Actor Factory spawned StaticMesh /Game/Environments/Bar/slotsHandle2.slotsHandle2 as actor: StaticMeshActor /Game/Levels/Bar/LVL_Bar.LVL_Bar:PersistentLevel.StaticMeshActor_95
+[2025.07.31-18.48.17:390][159]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/slotsHandle3.slotsHandle3
+[2025.07.31-18.48.17:390][159]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/slotsHandle3.slotsHandle3
+[2025.07.31-18.48.17:391][159]LogActorFactory: Actor Factory spawned StaticMesh /Game/Environments/Bar/slotsHandle3.slotsHandle3 as actor: StaticMeshActor /Game/Levels/Bar/LVL_Bar.LVL_Bar:PersistentLevel.StaticMeshActor_96
+[2025.07.31-18.48.17:391][159]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/table1.table1
+[2025.07.31-18.48.17:391][159]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/table1.table1
+[2025.07.31-18.48.17:392][159]LogActorFactory: Actor Factory spawned StaticMesh /Game/Environments/Bar/table1.table1 as actor: StaticMeshActor /Game/Levels/Bar/LVL_Bar.LVL_Bar:PersistentLevel.StaticMeshActor_97
+[2025.07.31-18.48.17:393][159]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/table2.table2
+[2025.07.31-18.48.17:393][159]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/table2.table2
+[2025.07.31-18.48.17:394][159]LogActorFactory: Actor Factory spawned StaticMesh /Game/Environments/Bar/table2.table2 as actor: StaticMeshActor /Game/Levels/Bar/LVL_Bar.LVL_Bar:PersistentLevel.StaticMeshActor_98
+[2025.07.31-18.48.17:395][159]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/table3.table3
+[2025.07.31-18.48.17:395][159]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/table3.table3
+[2025.07.31-18.48.17:396][159]LogActorFactory: Actor Factory spawned StaticMesh /Game/Environments/Bar/table3.table3 as actor: StaticMeshActor /Game/Levels/Bar/LVL_Bar.LVL_Bar:PersistentLevel.StaticMeshActor_99
+[2025.07.31-18.48.17:396][159]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/tableStool1.tableStool1
+[2025.07.31-18.48.17:396][159]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/tableStool1.tableStool1
+[2025.07.31-18.48.17:398][159]LogActorFactory: Actor Factory spawned StaticMesh /Game/Environments/Bar/tableStool1.tableStool1 as actor: StaticMeshActor /Game/Levels/Bar/LVL_Bar.LVL_Bar:PersistentLevel.StaticMeshActor_100
+[2025.07.31-18.48.17:399][159]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/tableStool2.tableStool2
+[2025.07.31-18.48.17:399][159]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/tableStool2.tableStool2
+[2025.07.31-18.48.17:399][159]LogActorFactory: Actor Factory spawned StaticMesh /Game/Environments/Bar/tableStool2.tableStool2 as actor: StaticMeshActor /Game/Levels/Bar/LVL_Bar.LVL_Bar:PersistentLevel.StaticMeshActor_101
+[2025.07.31-18.48.17:400][159]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/tableStool3.tableStool3
+[2025.07.31-18.48.17:400][159]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/tableStool3.tableStool3
+[2025.07.31-18.48.17:400][159]LogActorFactory: Actor Factory spawned StaticMesh /Game/Environments/Bar/tableStool3.tableStool3 as actor: StaticMeshActor /Game/Levels/Bar/LVL_Bar.LVL_Bar:PersistentLevel.StaticMeshActor_102
+[2025.07.31-18.48.17:401][159]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/tableStool4.tableStool4
+[2025.07.31-18.48.17:401][159]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/tableStool4.tableStool4
+[2025.07.31-18.48.17:402][159]LogActorFactory: Actor Factory spawned StaticMesh /Game/Environments/Bar/tableStool4.tableStool4 as actor: StaticMeshActor /Game/Levels/Bar/LVL_Bar.LVL_Bar:PersistentLevel.StaticMeshActor_103
+[2025.07.31-18.48.17:402][159]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/tableStool5.tableStool5
+[2025.07.31-18.48.17:402][159]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/tableStool5.tableStool5
+[2025.07.31-18.48.17:403][159]LogActorFactory: Actor Factory spawned StaticMesh /Game/Environments/Bar/tableStool5.tableStool5 as actor: StaticMeshActor /Game/Levels/Bar/LVL_Bar.LVL_Bar:PersistentLevel.StaticMeshActor_104
+[2025.07.31-18.48.17:404][159]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/tableStool6.tableStool6
+[2025.07.31-18.48.17:404][159]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/tableStool6.tableStool6
+[2025.07.31-18.48.17:405][159]LogActorFactory: Actor Factory spawned StaticMesh /Game/Environments/Bar/tableStool6.tableStool6 as actor: StaticMeshActor /Game/Levels/Bar/LVL_Bar.LVL_Bar:PersistentLevel.StaticMeshActor_105
+[2025.07.31-18.48.17:405][159]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/tableStool7.tableStool7
+[2025.07.31-18.48.17:405][159]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/tableStool7.tableStool7
+[2025.07.31-18.48.17:406][159]LogActorFactory: Actor Factory spawned StaticMesh /Game/Environments/Bar/tableStool7.tableStool7 as actor: StaticMeshActor /Game/Levels/Bar/LVL_Bar.LVL_Bar:PersistentLevel.StaticMeshActor_106
+[2025.07.31-18.48.17:406][159]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/tableStool8.tableStool8
+[2025.07.31-18.48.17:406][159]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/tableStool8.tableStool8
+[2025.07.31-18.48.17:408][159]LogActorFactory: Actor Factory spawned StaticMesh /Game/Environments/Bar/tableStool8.tableStool8 as actor: StaticMeshActor /Game/Levels/Bar/LVL_Bar.LVL_Bar:PersistentLevel.StaticMeshActor_107
+[2025.07.31-18.48.17:409][159]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/tableStool9.tableStool9
+[2025.07.31-18.48.17:409][159]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/tableStool9.tableStool9
+[2025.07.31-18.48.17:409][159]LogActorFactory: Actor Factory spawned StaticMesh /Game/Environments/Bar/tableStool9.tableStool9 as actor: StaticMeshActor /Game/Levels/Bar/LVL_Bar.LVL_Bar:PersistentLevel.StaticMeshActor_108
+[2025.07.31-18.48.17:410][159]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/tableStool10.tableStool10
+[2025.07.31-18.48.17:410][159]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/tableStool10.tableStool10
+[2025.07.31-18.48.17:411][159]LogActorFactory: Actor Factory spawned StaticMesh /Game/Environments/Bar/tableStool10.tableStool10 as actor: StaticMeshActor /Game/Levels/Bar/LVL_Bar.LVL_Bar:PersistentLevel.StaticMeshActor_109
+[2025.07.31-18.48.17:412][159]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/tv.tv
+[2025.07.31-18.48.17:412][159]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/tv.tv
+[2025.07.31-18.48.17:412][159]LogActorFactory: Actor Factory spawned StaticMesh /Game/Environments/Bar/tv.tv as actor: StaticMeshActor /Game/Levels/Bar/LVL_Bar.LVL_Bar:PersistentLevel.StaticMeshActor_110
+[2025.07.31-18.48.17:413][159]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/walls.walls
+[2025.07.31-18.48.17:413][159]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Environments/Bar/walls.walls
+[2025.07.31-18.48.17:414][159]LogActorFactory: Actor Factory spawned StaticMesh /Game/Environments/Bar/walls.walls as actor: StaticMeshActor /Game/Levels/Bar/LVL_Bar.LVL_Bar:PersistentLevel.StaticMeshActor_111
+[2025.07.31-18.48.18:522][237]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.07.31-18.48.18:531][237]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.07.31-18.48.18:531][237]LogPlayLevel: Display: Creating online subsystem for client :Context_13
+[2025.07.31-18.48.18:534][237]LogOnline: OSS: Created online subsystem instance for: :Context_13
+[2025.07.31-18.48.18:560][238]LogPlayLevel: Creating play world package: /Game/Levels/Bar/UEDPIE_0_LVL_Bar
+[2025.07.31-18.48.18:568][238]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008139s)
+[2025.07.31-18.48.18:568][238]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Bar/LVL_Bar.LVL_Bar to /Game/Levels/Bar/UEDPIE_0_LVL_Bar.LVL_Bar (0.008208s)
+[2025.07.31-18.48.18:590][238]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2025.07.31-18.48.18:592][238]LogChaosDD: Creating Chaos Debug Draw Scene for world LVL_Bar
+[2025.07.31-18.48.18:594][238]LogPlayLevel: PIE: World Init took: (0.002083s)
+[2025.07.31-18.48.18:595][238]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2025.07.31-18.48.18:595][238]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.07.31-18.48.18:595][238]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.07.31-18.48.18:595][238]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.07.31-18.48.18:595][238]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.07.31-18.48.18:595][238]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.07.31-18.48.18:595][238]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.07.31-18.48.18:595][238]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.07.31-18.48.18:595][238]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.07.31-18.48.18:595][238]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.07.31-18.48.18:595][238]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.07.31-18.48.18:595][238]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.07.31-18.48.18:597][238]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.07.31-18.48.18:636][238]LogAudioMixer: Display: Using Audio Hardware Device Realtek Digital Output (Realtek(R) Audio)
+[2025.07.31-18.48.18:636][238]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.07.31-18.48.18:636][238]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.07.31-18.48.18:636][238]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.07.31-18.48.18:636][238]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2025.07.31-18.48.18:636][238]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2025.07.31-18.48.18:640][238]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2025.07.31-18.48.18:640][238]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2025.07.31-18.48.18:640][238]LogInit: FAudioDevice initialized with ID 3.
+[2025.07.31-18.48.18:640][238]LogAudio: Display: Audio Device (ID: 3) registered with world 'LVL_Bar'.
+[2025.07.31-18.48.18:640][238]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2025.07.31-18.48.18:643][238]LogLoad: Game class is 'GameMode'
+[2025.07.31-18.48.18:651][238]LogWorld: Bringing World /Game/Levels/Bar/UEDPIE_0_LVL_Bar.LVL_Bar up for play (max tick rate 0) at 2025.07.31-13.48.18
+[2025.07.31-18.48.18:652][238]LogWorld: Bringing up level for play took: 0.008983
+[2025.07.31-18.48.18:653][238]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2025.07.31-18.48.18:653][238]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2025.07.31-18.48.18:653][238]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2025.07.31-18.48.18:655][238]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2025.07.31-18.48.18:656][238]PIE: Server logged in
+[2025.07.31-18.48.18:658][238]PIE: Play in editor total start time 0.127 seconds.
+[2025.07.31-18.48.19:819][346]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.31-18.48.19:819][346]LogWorld: BeginTearingDown for /Game/Levels/Bar/UEDPIE_0_LVL_Bar
+[2025.07.31-18.48.19:820][346]LogWorld: UWorld::CleanupWorld for LVL_Bar, bSessionEnded=true, bCleanupResources=true
+[2025.07.31-18.48.19:821][346]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.31-18.48.19:822][346]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.07.31-18.48.19:827][346]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.31-18.48.19:845][346]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.31-18.48.19:846][346]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2025.07.31-18.48.19:846][346]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3, StreamState=4
+[2025.07.31-18.48.19:848][346]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3, StreamState=2
+[2025.07.31-18.48.19:858][346]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2025.07.31-18.48.19:941][347]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2025.07.31-18.48.30:023][289]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.31-18.48.30:086][289]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Bar/LVL_Bar" FILE="../../../../../../Users/lvm210001/Documents/GitHub/hes-all-in/Content/Levels/Bar/LVL_Bar.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.07.31-18.48.30:138][289]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2025.07.31-18.48.30:171][289]LogSavePackage: Moving output files for package: /Game/Levels/Bar/LVL_Bar
+[2025.07.31-18.48.30:171][289]LogSavePackage: Moving '../../../../../../Users/lvm210001/Documents/GitHub/hes-all-in/Saved/LVL_BarBACC251A42E1F4D924EC2BB6F00E798B.tmp' to '../../../../../../Users/lvm210001/Documents/GitHub/hes-all-in/Content/Levels/Bar/LVL_Bar.umap'
+[2025.07.31-18.48.30:186][289]LogFileHelpers: Saving map 'LVL_Bar' took 0.099
+[2025.07.31-18.48.30:196][289]LogFileHelpers: InternalPromptForCheckoutAndSave took 173.777 ms (total: 4.24 sec)
+[2025.07.31-18.48.30:252][289]LogContentValidation: Display: Starting to validate 1 assets
+[2025.07.31-18.48.30:252][289]LogContentValidation: Enabled validators:
+[2025.07.31-18.48.30:252][289]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.31-18.48.30:252][289]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.31-18.48.30:252][289]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.31-18.48.30:252][289]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.31-18.48.30:252][289]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.31-18.48.30:252][289]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.31-18.48.30:252][289]AssetCheck: /Game/Levels/Bar/LVL_Bar Validating asset
+[2025.07.31-18.48.30:274][289]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/lvm210001/Documents/GitHub/hes-all-in/Saved/SourceControl/UncontrolledChangelists.json
+[2025.07.31-18.48.31:892][441]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2025.07.31-18.48.33:581][596]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.07.31-18.48.33:591][596]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.07.31-18.48.33:591][596]LogPlayLevel: Display: Creating online subsystem for client :Context_14
+[2025.07.31-18.48.33:594][596]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2025.07.31-18.48.33:619][597]LogPlayLevel: Creating play world package: /Game/Levels/Bar/UEDPIE_0_LVL_Bar
+[2025.07.31-18.48.33:627][597]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008278s)
+[2025.07.31-18.48.33:627][597]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Bar/LVL_Bar.LVL_Bar to /Game/Levels/Bar/UEDPIE_0_LVL_Bar.LVL_Bar (0.008339s)
+[2025.07.31-18.48.33:647][597]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2025.07.31-18.48.33:648][597]LogChaosDD: Creating Chaos Debug Draw Scene for world LVL_Bar
+[2025.07.31-18.48.33:650][597]LogPlayLevel: PIE: World Init took: (0.002072s)
+[2025.07.31-18.48.33:651][597]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2025.07.31-18.48.33:651][597]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.07.31-18.48.33:651][597]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.07.31-18.48.33:651][597]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.07.31-18.48.33:651][597]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.07.31-18.48.33:651][597]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.07.31-18.48.33:651][597]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.07.31-18.48.33:651][597]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.07.31-18.48.33:651][597]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.07.31-18.48.33:651][597]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.07.31-18.48.33:651][597]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.07.31-18.48.33:652][597]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.07.31-18.48.33:654][597]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.07.31-18.48.33:690][597]LogAudioMixer: Display: Using Audio Hardware Device Realtek Digital Output (Realtek(R) Audio)
+[2025.07.31-18.48.33:690][597]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.07.31-18.48.33:690][597]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.07.31-18.48.33:690][597]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.07.31-18.48.33:691][597]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2025.07.31-18.48.33:691][597]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2025.07.31-18.48.33:693][597]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2025.07.31-18.48.33:693][597]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2025.07.31-18.48.33:693][597]LogInit: FAudioDevice initialized with ID 4.
+[2025.07.31-18.48.33:693][597]LogAudio: Display: Audio Device (ID: 4) registered with world 'LVL_Bar'.
+[2025.07.31-18.48.33:694][597]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2025.07.31-18.48.33:696][597]LogLoad: Game class is 'GameMode'
+[2025.07.31-18.48.33:704][597]LogWorld: Bringing World /Game/Levels/Bar/UEDPIE_0_LVL_Bar.LVL_Bar up for play (max tick rate 0) at 2025.07.31-13.48.33
+[2025.07.31-18.48.33:705][597]LogWorld: Bringing up level for play took: 0.007433
+[2025.07.31-18.48.33:706][597]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2025.07.31-18.48.33:706][597]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2025.07.31-18.48.33:706][597]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2025.07.31-18.48.33:706][597]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2025.07.31-18.48.33:707][597]PIE: Server logged in
+[2025.07.31-18.48.33:709][597]PIE: Play in editor total start time 0.119 seconds.
+[2025.07.31-18.48.38:620][118]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.31-18.48.38:620][118]LogWorld: BeginTearingDown for /Game/Levels/Bar/UEDPIE_0_LVL_Bar
+[2025.07.31-18.48.38:620][118]LogWorld: UWorld::CleanupWorld for LVL_Bar, bSessionEnded=true, bCleanupResources=true
+[2025.07.31-18.48.38:621][118]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.31-18.48.38:623][118]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.07.31-18.48.38:627][118]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.31-18.48.38:644][118]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.07.31-18.48.38:645][118]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2025.07.31-18.48.38:645][118]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4, StreamState=4
+[2025.07.31-18.48.38:646][118]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4, StreamState=2
+[2025.07.31-18.48.38:678][118]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.31-18.48.38:681][118]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2025.07.31-18.48.38:770][119]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2025.07.31-18.48.59:496][119]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
