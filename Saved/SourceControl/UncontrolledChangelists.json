@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/green/OneDrive/Documents/GitHub/hes-all-in/Content/Gamemode/Blueprints/WBP_LockUI.uasset",
+				"C:/Users/green/OneDrive/Documents/GitHub/hes-all-in/Content/Gamemode/Blueprints/BPI_LockUICommunication.uasset",
+				"C:/Users/green/OneDrive/Documents/GitHub/hes-all-in/Content/Gamemode/Blueprints/LockPuzzle.uasset",
+				"C:/Users/green/OneDrive/Documents/GitHub/hes-all-in/Content/Levels/Casino/Casino.umap",
 				"C:/Users/green/Downloads/hes-all-in-master/Content/Levels/TransitionLevels/MainMenu/MainMenuWidget.uasset",
 				"C:/Users/green/Downloads/hes-all-in-master/Content/Black_Screen.uasset",
 				"C:/Users/green/Downloads/hes-all-in-master/Content/Levels/TransitionLevels/Introduction/Introduction.umap",
