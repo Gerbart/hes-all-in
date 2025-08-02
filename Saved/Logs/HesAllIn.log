@@ -15763,6 +15763,7 @@ Script Stack (0 frames) :
 [2025.08.02-23.35.45:651][ 30]AssetCheck: /Game/Characters/Bobby/bobbyRig_PhysicsAsset Validating asset
 [2025.08.02-23.35.45:651][ 30]AssetCheck: /Game/Characters/Bobby/bobbyRig Validating asset
 [2025.08.02-23.35.45:669][ 30]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/kille/Documents/Unreal Projects/HesAllIn/Saved/SourceControl/UncontrolledChangelists.json
+<<<<<<< Updated upstream
 [2025.08.02-23.37.16:132][733]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 19521.632812
 [2025.08.02-23.37.16:327][740]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.08.02-23.37.16:327][740]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 19521.808594, Update Interval: 332.051758
@@ -15922,3 +15923,5 @@ Script Stack (0 frames) :
 [2025.08.02-23.37.26:433][783]LogD3D12RHI: ~FD3D12DynamicRHI
 [2025.08.02-23.37.26:465][783]LogExit: Exiting.
 [2025.08.02-23.37.26:503][783]Log file closed, 08/02/25 18:37:26
+=======
+>>>>>>> Stashed changes
