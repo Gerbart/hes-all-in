@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\kille\\Documents\\Unreal Projects\\HesAllIn\\Intermediate\\Source\\HesAllIn.Build.cs",
+		"C:\\Users\\kille\\Documents\\Unreal Projects\\HesAllIn\\Intermediate\\Source\\HesAllIn.Target.cs",
+		"C:\\Users\\kille\\Documents\\Unreal Projects\\HesAllIn\\Intermediate\\Source\\HesAllInClient.Target.cs",
+		"C:\\Users\\kille\\Documents\\Unreal Projects\\HesAllIn\\Intermediate\\Source\\HesAllInEditor.Target.cs",
+		"C:\\Users\\kille\\Documents\\Unreal Projects\\HesAllIn\\Intermediate\\Source\\HesAllInServer.Target.cs"
+	],
+	"EngineVersion": "5.6.0"
+}
